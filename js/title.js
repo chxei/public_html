@@ -5,7 +5,7 @@ $(function() {
 
 	// Change page title on blur
 	$(window).blur(function() {
-	  $("title").text("სად მიდიხარ ჯო...");
+	  $("title").text("გთხოვთ დაბრუნდეთ");
 	});
 
 	// Change page title back on focus
